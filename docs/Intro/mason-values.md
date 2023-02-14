@@ -19,12 +19,11 @@ sidebar_label: "DAO Mason Values"
 ## Productive, Disciplined, Sacrificing
 
 <aside>
-📕 A DAO Mason is productive and disciplined. Voluntary, coordinated sacrifice for virtuous ideals is the blade we use to sever the head of Moloch. *Initials* _____
-
+📕 A DAO Mason is productive and disciplined. Voluntary, coordinated sacrifice for virtuous ideals is the blade we use to sever the head of Moloch.
 </aside>
 
 <aside>
-⚔️ *Our clients entrust us with their money, their businesses, and their livelihoods. When we mess up, miss a deadline, or slow down, it matters. We take that responsibility seriously.*
+⚔️ Our clients entrust us with their money, their businesses, and their livelihoods. When we mess up, miss a deadline, or slow down, it matters. We take that responsibility seriously.
 
 </aside>
 
@@ -36,7 +35,7 @@ sidebar_label: "DAO Mason Values"
 </aside>
 
 <aside>
-⚔️ *We are each craftsmen with unique specialties and skills.  By working each day to approach mastery of our crafts, we become more effective as allies and colleagues.*
+⚔️ We are each craftsmen with unique specialties and skills.  By working each day to approach mastery of our crafts, we become more effective as allies and colleagues.
 
 </aside>
 
