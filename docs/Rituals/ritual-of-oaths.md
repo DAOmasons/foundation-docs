@@ -4,9 +4,11 @@ sidebar_label: "Ritual of Oaths"
 
 # Ritual of Oaths
 
-Each DAO Mason is expected to create a Colleague Letter of Understanding using the following template and post it in a public space where it can be read by other DAO Masons.
+- Each DAO Masons creates a **Colleague Letter of Understanding** to codify their commitments to their peers. This document forms the foundation of a DAO Mason's commitment to themselves and the DAO.
 
-## DAO Mason Colleague Letter of Understanding
+- The DAO provides a Rulebook and Operating Agreement and the process by which those rules may change. Each DAO Mason must testify they have read and understood the Rulebook and the Operating Agreement.
+
+## DAO Mason Colleague Letter of Understanding (template)
 
 I hereby accept the mantle of the DAO Mason. In doing so I agree to abide by, to the best of my ability, the principles & commitments detailed within this letter of understanding.
 
@@ -46,11 +48,11 @@ I agree and attest that I am in accord with the following three (3) DAO Masons g
 
 I articulate my _Personal Mission Statement_ as follows. I am open to questions about my personal mission as it relates to my work in DAO Masons, and I will refine and articulate it over time.
 
-_Personal Mission Statement_ \_************************************************************\*\*************************************************************\_\_\_\_************************************************************\*\*************************************************************
+_Personal Mission Statement_ **************************************************************\_\_**************************************************************
 
 I articulate the _Key Activities_ that I agree to pursue & accomplish regularly in pursuit of my Personal Mission Statements and the DAOMason Mission Statements. I agree to fill roles related to these key activities in alignment with my Percent Focus and other commitments.
 
-_Key Activities & Roles_ \_************************************************************\*\*************************************************************\_\_\_\_************************************************************\*\*************************************************************
+_Key Activities & Roles_ ******************************\*\*******************************\_\_******************************\*\*******************************
 
 ### Focus Commitment
 
@@ -69,7 +71,7 @@ It is understood that a reasonable allowance for side projects and creative ende
 
 I've reviewed the [Tools of the Trade](https://hackmd.io/6fQdTdo4Qvu17KQbqN-PSw) and clarified my own Commitment Portfolio:
 
-\_************************************************************\*\*************************************************************\_\_\_\_************************************************************\*\*************************************************************
+---
 
 **Trusted System**
 
@@ -80,4 +82,4 @@ I agree to be open to encouragement and accountability from other DAOmasons rega
 
 Initials: **\_\_\_**
 
-Signature ****\*\*\*\*****\_\_\_\_****\*\*\*\*****
+Signature **************************************************************\_\_**************************************************************

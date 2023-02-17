@@ -14,3 +14,10 @@ What we need is walls. Shelter and reprieve from the chaos and violence outside.
 Many of these needs are provided by traditional corporations. But engaging with those comes at the price of autonomy, sovereignty and dignity. New social and technological structures have emerged to create systems of distributed power that eliminate the need to become the equivalent of a serf in exchange for security.
 
 These are DAOs. There will be many viable forms. And we, just like the Masons of old who built castle walls, can offer our hand at building DAOs in the vision of Web3, allowing the people inside those walls decide how they live their lives. This is a new renaissance.
+
+> .. the basic design of the Anglo-American limited-liability joint-stock company has remained roughly unchanged since the start of the Industrial Revolution ... if the joint-stock design is not perfectly optimal, we can expect it to be nearly optimal.
+>
+> Curtis Yavin
+
+> DAOs are not Corporations: where decentralization in autonomous organizations matters
+> https://vitalik.ca/general/2022/09/20/daos.html

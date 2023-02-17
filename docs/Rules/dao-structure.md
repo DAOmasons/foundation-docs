@@ -4,24 +4,55 @@ sidebar_label: "DAO Structure"
 
 # DAO Structure
 
-## DAO Masons membership
+## Gaining DAO Masons Core Membership
 
-- To join the DAO Masons a prospective DAO Mason must be sponsored a DAO Mason in good standing.
+- To join the DAO Masons a prospective DAO Mason must:
+  - be sponsored by at least one active DAO Mason.
+  - have contributed to at least 3 completed projects including 1 Internal Project
+  - complete the Ritual of Acumen
+  - complete the Ritual of Oaths
+  - receive a passed New Member Proposal vote in favor
 
-- The sponsor announces the prospective member's sponsorship to the DAO.
+## Losing DAO Masons Core Membership
 
-- The prospective member must receive a secondary sponsorship from another DAO Mason within 2 weeks of original sponsorship.
+- To lose DAO Masons core membership:
+  - Voluntarily exit the DAO
+  - An Inactivity or Bad Faith Demotion proposal passes
 
-- The prospective member then enters a 3 month trial period.
+## Demotion
 
-- There will be a vote at the end of this period for membership
+A Demoted member has voting shares converted to non-voting shares.
 
-  - A majority of current masons voting yes means membership is granted.
+### Inactivity Demotion
 
-- Any DAO mason in good standing can call a vote on a new member during this trial period.
-  - This vote can end a DAO Mason's trial period prematurely if they receive more NO votes than YES votes.
-  - Receive a majority yes votes during this vote does not grant membership to the prospective member.
+Inactivity Demotion occurs when a member is not meeting the DAO Masons Activity criteria and a [Demotion Proposal](../Rules/glossary.md) passes to Demote them.
 
-## DAO Mason Good Standing status
+#### Activity Critieria
 
-- To be in Good Standing as a DAO Mason, there must have been active contribution to at least one project within the last 30 days evidenced by receiving at least one share within a project.
+1. They have made an active contribution to at least one project within the last 90 days evidenced by receiving at least one share within a project.
+2. Have participated with DAO Governance and/or Key DAO Decisions within the past 90 days.
+
+We understand that there are valid reasons to step away from a DAO for a period of time and this Inactivity Demotion is intended to account for that and optimize governance.
+
+### Bad Faith Demotion
+
+Bad Faith Demotion occurs when the DAO agrees that a member is operating in Bad Faith. An example may be attempting to steal or divert DAO funds.
+
+A Bad Faith Demotion generally implies that the former member should never be voted back into member status.
+
+## Promotion
+
+A member who has been Demoted can be Promoted with a passing [Promotion Proposal](../Rules/glossary.md).
+
+### Gaining Contributor Status
+
+Getting on the List:
+
+- Sign the [Contributor Agreements](../Rules/glossary.md)
+- Have one DAO Mason vouch for you
+
+Working on the Project:
+
+- One DAO Mason sponsors you for the project (Typically the Team Lead)
+  - Sponsoring DAO Mason becomes responsible for filling in or replacing contributor if need arises
+  - Redundant sponsorship is encouraged for critical roles
