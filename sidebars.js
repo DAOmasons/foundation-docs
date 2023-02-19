@@ -34,7 +34,13 @@ const sidebars = {
         {
           type: "category",
           label: "Rules of the Game",
-          items: ["Rules/governance", "Rules/dao-structure", "Rules/projects"],
+          items: [
+            "Rules/governance",
+            "Rules/dao-structure",
+            "Rules/dao-roles",
+            "Rules/projects",
+            "Rules/glossary",
+          ],
         },
         {
           type: "category",
@@ -44,7 +50,7 @@ const sidebars = {
             "Rituals/ritual-of-skill",
             "Rituals/ritual-of-growth",
             "Rituals/ritual-of-oaths",
-            "Rituals/ritual-of-reward",
+            "Rituals/ritual-of-echoes",
           ],
         },
       ],
